@@ -7,3 +7,5 @@ const subtract =(num1,num2)=> num1-num2;
 
 //yaha pe multiply hogi
 const multiply = (x,y)=>x*y;
+
+//square root of number
